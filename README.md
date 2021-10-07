@@ -7,7 +7,8 @@ I started learning front-end development & Python by myself in July 2021.
 My project : become a fullstack dev & continue to learn.
 There is plenty to do, I'm glad ! 🤗
 
-- 💞️ I’m looking to collaborate on easy projects.
+- 💞️ I’m looking to Discover GitHub, and if I have the opportunity, 
+to collaborate on projects.
 
 - 📫 How to reach me : emilie.i@live.fr
 - 📫 In the next episode ... My LinkedIn! 😉
