@@ -10,8 +10,7 @@ There is plenty to do, I'm glad ! 🤗
 - 💞️ I’m looking to Discover GitHub, and if I have the opportunity, 
 to collaborate on projects.
 
-- 📫 How to reach me : emilie.i@live.fr
-- 📫 In the next episode ... My LinkedIn! 😉
+- 📫 How to reach me ? In the next episode ... My LinkedIn! 😉
 
 <!---
 E-IckArt/E-IckArt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
