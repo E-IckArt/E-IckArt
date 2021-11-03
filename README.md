@@ -3,7 +3,7 @@
 - 👀 Some time ago, I have decided to reinvent my life.
 I started learning front-end development & Python by myself in July 2021.
  
-- 🌱 I’m currently preparing a Bachelor Web Developer option Java. 
+- 🌱 I’m currently preparing a Bachelor Java Web Developer. 
 My project : become a fullstack dev & continue to learn.
 There is plenty to do, I'm glad ! 🤗
 
