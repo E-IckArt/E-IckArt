@@ -9,19 +9,13 @@ Right now, I'm preparing the RNCP qualification "Concepteur Développeur d'Appli
 
 ### Languages and tools I comfortable with :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=xd,figma,git,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=xd,figma,git,github,bash)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,stackoverflow,discord)](https://skillicons.dev)
 
 ### Languagages and tools I have already used :
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,java,py,php)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=docker,heroku,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,java,py,php)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=docker,heroku,linux)](https://skillicons.dev)
 
 ## My portfolio
 
