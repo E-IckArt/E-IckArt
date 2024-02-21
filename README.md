@@ -1,21 +1,39 @@
 ## Who am I
 
-👋 Hi, I’m Emilie ! 🇨🇵
+👋 Hi, I’m Emilie !
 
-I'm learning devlopment for a year.  
-Right now, I'm preparing the RNCP qualification "Concepteur Développeur d'Applications" at "Campus Numérique In The Alps".
+I started learning app development in September 2021.  
+I studied at the “Campus Numérique In The Alps” from September 2022 to December 2023.  
+I obtained the RNCP qualification “**Application Developer Designer**” in December 2023.  
+I worked for a year for a software publisher in the tourism field from December 2022 to December 2023.  
+
+$${\color{lightgreen}Right \space now,\space I\space am\space looking\space for\space a\space new\space professional\space challenge\space!}$$
 
 ## My Skills
 
 ### Languages and tools I comfortable with :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=xd,figma,git,github,bash)](https://skillicons.dev)
+#### Front-end and mobile
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,vue,vitest,pinia,flutter,ionic)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,stackoverflow,discord)](https://skillicons.dev)
+#### Back-end
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,ruby,rails)](https://skillicons.dev)
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+
+#### Other Tools
+[![My Skills](https://skillicons.dev/icons?i=xd,figma,git,github,bash,postman)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,vscode,phpstorm,webstorm,stackoverflow,discord)](https://skillicons.dev)
 
 ### Languagages and tools I have already used :
+#### Front-end
+[![My Skills](https://skillicons.dev/icons?i=react,jquery,ts,nodejs,java,py)](https://skillicons.dev)  
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,java,py,php)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=docker,heroku,linux)](https://skillicons.dev)
+#### Other Tools 
+[![My Skills](https://skillicons.dev/icons?i=docker,heroku,ansible,nginx,idea)](https://skillicons.dev)
 
 ## My portfolio
 
