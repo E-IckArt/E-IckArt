@@ -4,7 +4,7 @@
 
 I started learning app development in September 2021.  
 I studied at the “Campus Numérique In The Alps” from September 2022 to December 2023.  
-I obtained the RNCP qualification “**Application Developer Designer**” in December 2023.  
+I obtained the RNCP qualification “**Concepteur Développeur d'Applications**” in December 2023.  
 I worked for a year for a software publisher in the tourism field from December 2022 to December 2023.  
 
 $${\color{lightgreen}Right \space now,\space I\space am\space looking\space for\space a\space new\space professional\space challenge\space!}$$
