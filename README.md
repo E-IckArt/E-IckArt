@@ -37,7 +37,7 @@ $${\color{lightgreen}Right \space now,\space I\space am\space looking\space for\
 
 ## My portfolio
 
-👀 Take a look at my : [portofio](https://e-ickart.github.io/Portfolio)
+👀 Take a look at my : [portofio](https://ickartdev.fr/)
 
 ## Contact
 
